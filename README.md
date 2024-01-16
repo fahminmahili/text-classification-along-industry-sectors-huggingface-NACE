@@ -3,7 +3,7 @@ Text classification project using the BERT (bert-base-uncased) Hugging Face mode
 
 
 
-
+## Text Classification in Detail
 
 A sophisticated text classification project leveraging the BERT (bert-base-uncased) Hugging Face model to categorize unstructured job postings based on the NACE (Statistical Classification of Economic Activities in the European Community) nomenclature. Achieve accurate and efficient industry sector classification with advanced natural language processing techniques.
 
