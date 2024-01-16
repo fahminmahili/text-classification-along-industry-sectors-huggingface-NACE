@@ -1,12 +1,9 @@
-# text-classification-along-industry-sectors-huggingface-NACE
+# Text Classification Along Industry Sectors using Hugging Face Model and NACE Nomenclature
 Text classification project using the BERT (bert-base-uncased) Hugging Face model to categorize unstructured job postings dataset based on NACE. Involves data cleaning and preprocessing, similarity checking between the job postings dataset and the NACE dataset, model training, and a user-friendly interface for efficient classification.
 
 
-# Text Classification Along Industry Sectors using Hugging Face Model and NACE Nomenclature
 
-<p align="center">
-  <img src="https://your-image-url.png" alt="Project Logo" width="300" />
-</p>
+
 
 A sophisticated text classification project leveraging the BERT (bert-base-uncased) Hugging Face model to categorize unstructured job postings based on the NACE (Statistical Classification of Economic Activities in the European Community) nomenclature. Achieve accurate and efficient industry sector classification with advanced natural language processing techniques.
 
